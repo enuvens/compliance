@@ -1,0 +1,18 @@
+
+ago 14, 2018 08:09:43.67 NEW SESSION
+ago 14, 2018 08:09:43.67 [5424:6196:0814/080943.676:ERROR:install_util.cc(603)] Failed to read HKLM\SOFTWARE\Policies\Google\Chrome\MachineLevelUserCloudPolicyEnrollmentToken: The system cannot find the file specified. (0x2)
+ago 14, 2018 08:10:29.26 Unable to read VR Path Registry from C:\Users\logonrmlocal\AppData\Local\openvr\openvrpaths.vrpath
+ago 14, 2018 08:25:02.27 [5424:4292:0814/082502.270:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+ago 14, 2018 09:08:37.24 [5424:4292:0814/090837.247:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+ago 14, 2018 09:10:11.89 [5424:4292:0814/091011.892:ERROR:shader_disk_cache.cc(237)] Failed to create shader cache entry: -2
+ago 14, 2018 10:04:53.17 [5424:6604:0814/100453.175:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:05:00.25 [5424:6604:0814/100500.251:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:05:55.88 [5424:6604:0814/100555.887:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:06:54.39 [5424:6604:0814/100654.394:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:07:14.96 [5424:6604:0814/100714.967:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:07:56.53 [5424:6604:0814/100756.535:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:08:10.91 [5424:2764:0814/100810.916:ERROR:platform_sensor_reader_win.cc(242)] NOT IMPLEMENTED
+ago 14, 2018 10:42:01.56 [5424:6604:0814/104201.567:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:43:08.86 [5424:6604:0814/104308.867:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:47:37.48 [5424:6604:0814/104737.483:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
+ago 14, 2018 10:48:58.96 [5424:6604:0814/104858.969:ERROR:audio_manager_base.cc(361)] Invalid audio output parameters received; using fake audio path: format: 0 channel_layout: 0 channels: 0 sample_rate: 0 frames_per_buffer: 0 effects: 0 mic_positions: 
